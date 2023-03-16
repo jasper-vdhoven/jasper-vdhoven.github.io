@@ -1,0 +1,31 @@
+title: Jasper's blog
+author: Jasper
+description: >- # this means to ignore newlines until "baseurl:"
+  Personal blogging venture about IT, Infosec, and god knows what.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://blog.bollos.nl" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: saszper
+social_link: twitter
+github_repo: jasper-vdhoven.github.io # the GitHub repo name for your project
+github_username: jasper-vdhoven
+
+favicon: /images/icons/favicon.ico
+
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+remote_theme: broccolini/swiss
+theme_color: orange
+
+# Build settings
+markdown: kramdown
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
