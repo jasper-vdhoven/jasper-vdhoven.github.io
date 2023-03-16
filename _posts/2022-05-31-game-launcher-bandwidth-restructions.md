@@ -2,7 +2,7 @@
 layout: category-post
 title:  "Game Launcher UX - Comparing bandwidth restriction options"
 date:   2022-05-31
-categories: Games, UX
+categories: Games UX
 ---
 
 # Introduction
