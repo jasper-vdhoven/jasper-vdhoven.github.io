@@ -9,7 +9,7 @@ pre {
     overflow-x: auto;
 }
 pre.highlight,
-.highlight { background-color: #fdf6e3; color: #586e75 }
+.highlight { background-color: #fdf6e3; color: #586e75; width: 97%; overflow-wrap: break-word;}
 .highlight .c { color: #93a1a1 } /* Comment */
 .highlight .err { color: #586e75 } /* Error */
 .highlight .g { color: #586e75 } /* Generic */
